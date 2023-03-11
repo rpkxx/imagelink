@@ -74,6 +74,12 @@ button:active {
 }
 
 @media only screen and (max-width: 768px) {
+	body {
+		margin: 3px;
+	}
+	p {
+		width: 100%
+	}
 	img {
 		width: 100%;
 		margin: auto;
